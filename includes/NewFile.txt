@@ -1,0 +1,40 @@
+<div class="card card-outline card-primary">
+	<div class="card-header">
+		<h3 class="card-title">List of Templates</h3>
+		<div class="card-tools">
+			<a href="?page=templates/manage_template" class="btn btn-flat btn-primary"><span class="fas fa-plus"></span>  Create New Template</a>
+		</div>
+	</div>
+	<div class="card-body">
+		<div class="container-fluid">
+        <div class="row row-cols-3 gx-3">
+							<div class="col p-1">
+						<div class="card">
+							<img src="http://localhost/id_generator/uploads/templates/template_4.png" alt="" class="img-top img-template img-fluid">
+							<div class="card-body">
+								<a href="?page=templates/manage_template&amp;id=4">
+									<h5>Sample 102</h5>
+								</a>
+								<div class="d-flex justify-content-end">
+									<button class="badge badge-danger border-0 py-1 px-2 delete_template" type="button" data-id="4"><i class="fa fa-trash"></i></button>
+								</div>
+							</div>
+						</div>
+				</div>
+							<div class="col p-1">
+						<div class="card">
+							<img src="http://localhost/id_generator/uploads/templates/template_1.png" alt="" class="img-top img-template img-fluid">
+							<div class="card-body">
+								<a href="?page=templates/manage_template&amp;id=1">
+									<h5>Sample Template</h5>
+								</a>
+								<div class="d-flex justify-content-end">
+									<button class="badge badge-danger border-0 py-1 px-2 delete_template" type="button" data-id="1"><i class="fa fa-trash"></i></button>
+								</div>
+							</div>
+						</div>
+				</div>
+					</div>
+		</div>
+	</div>
+</div>
