@@ -1,0 +1,64 @@
+.settings-form-wrap h3 {
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    padding: 6px 0 6px 12px;
+}
+
+.settings-form-wrap h4 {
+  
+    margin-bottom: 10px;
+   
+
+}
+
+
+ #cimg {
+      height: 15vh;
+width: 15vh;
+object-fit: cover;
+border-radius: 100% 100%;
+    opacity: .4;
+    opacity: .4;
+  }
+
+.settings-form-wrap .text-primaryy  {
+    background: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    padding: 10px;
+   border-radius: 2px;
+     border: 2px solid #2271b1;
+}
+
+
+.settings-form-wrap .upload-styling  {
+    background: #fff;
+    color: #ccc;
+  width:40%;
+    text-decoration: none;
+    text-shadow: none;
+    padding: 20px !important;
+   border-radius: 2px;
+     border: 2px solid #fff;
+}
+
+.infotext  {
+   
+   font-family: strong;
+  
+}
+
+.settings-form-wrap .form-styling {
+
+  width: 40%;
+height: 40px;
+border-radius: 2px;
+    border: 2px solid #ccc;
+  }
+.settings-form-wrap .form-style{
+
+ width: 40%;
+border-radius: 2px;
+    border: 2px solid #ccc;
+  }

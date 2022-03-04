@@ -1,0 +1,51 @@
+.text-primaryy  {
+    background: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    padding: 10px;
+   border-radius: 2px;
+     border: 2px solid #2271b1;
+}
+
+.label-color {
+	
+	color: #790000;
+margin-left: 4px;
+	
+	}
+
+#receiptconfirmation_text {
+    padding: 15px;
+    background-color: #add8645;
+}
+	
+.input-type	{
+	
+margin-top: 8px;
+	
+	}
+
+.placeholdertext  {
+   
+  font-size: 0.813em;
+  padding-top: 10px;
+  
+}
+
+ .form-styling {
+
+  width: 70%;
+height: 40px;
+border-radius: 2px;
+    border: 2px solid #ccc;
+  }
+
+.submit-primaryy{
+    background-color: gold !important;
+    margin-top: 10px !important;
+    color: black !important;
+    border-radius: 5px !important;
+    padding: 15px 30px !important;
+    font-weight: 600;
+}
